@@ -21,3 +21,9 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+.idea/
+
+main-project/node_modules
+styling-project/node_modules
+
