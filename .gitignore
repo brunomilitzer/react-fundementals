@@ -26,4 +26,5 @@ yarn-error.log*
 
 main-project/node_modules
 styling-project/node_modules
+project-management/node_modules
 
